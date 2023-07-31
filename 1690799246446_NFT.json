@@ -1,0 +1,185 @@
+[
+  {
+    "count": 15,
+    "rarityCount": 3,
+    "owner": "0xb3eac9a4ca341761a1153fcb856e90ca6961edff0d47e3297dc9242e2f264fea",
+    "rarities": [
+      1,
+      3,
+      2
+    ]
+  },
+  {
+    "count": 13,
+    "rarityCount": 3,
+    "owner": "0xa5c0401dcf5e4e6cb4eb1404f4fa4e7544d17b18859e7fa3cbd872aff95d8662",
+    "rarities": [
+      2,
+      1,
+      3
+    ]
+  },
+  {
+    "count": 1,
+    "rarityCount": 1,
+    "owner": "0x59aeb096a989c66396efcfe4d8b70e284980ec89cd96093474c3aed7c3888cfb",
+    "rarities": [
+      1
+    ]
+  },
+  {
+    "count": 14,
+    "rarityCount": 3,
+    "owner": "0x652bac7cfca90729db59abafcf4fc088a213ef12237a2f9d56598684a379acbe",
+    "rarities": [
+      2,
+      1,
+      3
+    ]
+  },
+  {
+    "count": 21,
+    "rarityCount": 4,
+    "owner": "0x040f19fad49dbe3f1cb971b32e95f75f98885e184c06217cebd60b9b4a5670fa",
+    "rarities": [
+      2,
+      1,
+      3,
+      5
+    ]
+  },
+  {
+    "count": 1,
+    "rarityCount": 1,
+    "owner": "0xd5f029c945841a14aaee9d7a9fbf58a51aa1b15530af7143a996417a41953f1a",
+    "rarities": [
+      1
+    ]
+  },
+  {
+    "count": 3,
+    "rarityCount": 2,
+    "owner": "0xace10ff89fa9fcd839f2c8c6211f7ef2f8dd3892ad41bbae0942b7bbaba89531",
+    "rarities": [
+      2,
+      3
+    ]
+  },
+  {
+    "count": 4,
+    "rarityCount": 3,
+    "owner": "0xf2f2080338e5eeb2a24f582b02d5bb454a3dff5c06c70cfb82d81451ba7be257",
+    "rarities": [
+      3,
+      1,
+      2
+    ]
+  },
+  {
+    "count": 193,
+    "rarityCount": 5,
+    "owner": "0xd01af3c1b94cefb08e17bd02f094686e826caf2a316dc01ad4a5ac7d3d2c95dc",
+    "rarities": [
+      2,
+      3,
+      1,
+      5,
+      4
+    ]
+  },
+  {
+    "count": 7,
+    "rarityCount": 3,
+    "owner": "0xc4acef6d95d35f267cbff2c88e5b149c0a5acc684a0885440fb4aa6eb7c40e25",
+    "rarities": [
+      2,
+      1,
+      3
+    ]
+  },
+  {
+    "count": 11,
+    "rarityCount": 3,
+    "owner": "0x65a9af90209daff641a07b5e5ddfba70bed0e5b6332ecd15e1435a694256e446",
+    "rarities": [
+      2,
+      1,
+      3
+    ]
+  },
+  {
+    "count": 35,
+    "rarityCount": 4,
+    "owner": "0xa41e3f05bf1d5f29cf077892c5f8cf6fb16ca5a3130150270018fd509ed9aeae",
+    "rarities": [
+      3,
+      1,
+      4,
+      2
+    ]
+  },
+  {
+    "count": 1,
+    "rarityCount": 1,
+    "owner": "0x91cd48722fe0ed7ad387907644ae5615396bbde9b5bf9178ab8cc0a568596cca",
+    "rarities": [
+      1
+    ]
+  },
+  {
+    "count": 36,
+    "rarityCount": 4,
+    "owner": "0x16ae4e18ea1d46f871e48366e1af242916a1cb6b64588821ee1ba0cac34d2a6e",
+    "rarities": [
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "count": 1,
+    "rarityCount": 1,
+    "owner": "0x7a57f3c3c2f8187d32362b769f1204b794263f7d3588b56846145ecb201b6361",
+    "rarities": [
+      3
+    ]
+  },
+  {
+    "count": 4,
+    "rarityCount": 2,
+    "owner": "0x065179fb0c949f4e29e983a33a3d737b0820ae5e3d36480a267377c74f9cc97b",
+    "rarities": [
+      3,
+      1
+    ]
+  },
+  {
+    "count": 3,
+    "rarityCount": 2,
+    "owner": "0x6008c07ee39613a9b99aede6682d548c76fc8808f1e8693c858f2db9adfdd908",
+    "rarities": [
+      3,
+      1
+    ]
+  },
+  {
+    "count": 1,
+    "rarityCount": 1,
+    "owner": "0xf72c926e881d0bc4c2b3bcc962149670b12e024ab1431f8f6511aecddac50297",
+    "rarities": [
+      2
+    ]
+  },
+  {
+    "count": 5,
+    "rarityCount": 4,
+    "owner": "0x64e61ad3d75dc97da428cc4158c1d40dd5997fd12825e0663a404cdacb0ef027",
+    "rarities": [
+      3,
+      5,
+      2,
+      1
+    ]
+  }
+]
